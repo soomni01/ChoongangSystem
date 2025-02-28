@@ -106,7 +106,7 @@
 
 🎬 [시연 영상 보기](https://youtu.be/zweG9Zr0dIo)
 
-## ⁉ 트러블 슈팅
+## 🛠 트러블 슈팅
 <details><summary><b>도메인 지식 부족</b></summary>
  <br>
 <b>1. 문제 식별</b><br>
@@ -120,10 +120,16 @@
 </details>
 <details><summary><b>ERD 테이블의 구조</b></summary>
 <b>1. 문제 식별</b><br>
+ 
+  ##### ERD 초안
+ ![Image](https://github.com/user-attachments/assets/9b4dbe04-03f5-4b67-944d-e3424e7af0c3)
+ ##### ERD 최종
+ ![Image](https://github.com/user-attachments/assets/9034e38e-3286-4b0e-ad68-534eee058964)
+ 
  위와 같이 개념 이해도가 부족한 상태에서 ERD를 설계하다보니까 프로젝트를 수행하면서 ERD 수정이 많았음<br> 
  <br>
 <b>2. 문제 해결 접근 방법</b><br>
- 피드백을 통한 테이블 구조에 대한 인식을 재정립 및 테이블 구조의 재구성
+ 피드백을 통한 테이블 구조에 대한 인식을 재정립 및 테이블 구조의 재구성<br>
  <br>
 <b>3. 결과 및 교훈</b><br>
  프로젝트를 할 때마다 ERD의 중요성을 느끼는데, 이번에도 여전히 프로젝트를 수행하면서 ERD 수정이 많아서 아쉬웠다. 좀 더 업무에 맞는 ERD 구조도를 생각했으면 빠르게 ERD 구조를 설정한 후 많은 기능을 넣을 수 있었을 거라는 아쉬움이 남았다.
